@@ -9,7 +9,7 @@
 
 ### **2. Клонирование репозитория**  
 ```sh
-git clone https://github.com/your-repo/docker-flask-app.git
+git clone [https://github.com/vddshk/vddshk_homework.git]
 cd docker-flask-app
 ```
 
